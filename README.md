@@ -9,10 +9,10 @@ OpenCV 4.0.0
 VS2017 打开 idcard.sln，Ctrl+F5
 
 ## 2. .bat 批处理使用
-'''
+```
 idcard.exe ./data/pic ./data/trainData/ ./data/res/ FALSE FALSE
 pause
-'''
+```
 * params0: idcard.exe
 * params1: 包含 待识别图片   的文件夹  注意结尾没有 "/"  __QAQ__
 * params2: 包含 SVM 训练数据 的文件夹  注意结尾包含 "/"  __QAQ__
