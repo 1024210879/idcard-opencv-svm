@@ -26,21 +26,13 @@ pause
 * 每张训练图片尺寸为 28 * 28
 * 训练图片前景白色，背景黑色
 * SVM 模型路径 ./data/trainData/svm.xml
-![dirs.jpg]
-(images/dirs.jpg)
+![dirs.jpg](images/dirs.jpg)
 
 # 效果图
-![001.jpg]
-(images/001.jpg)
-![002.jpg]
-(images/002.jpg)
-![003.jpg]
-(images/003.jpg)
-![004.jpg]
-(images/004.jpg)
-![005.jpg]
-(images/005.jpg)
-![006.jpg]
-(images/006.jpg)
-![007.jpg]
-(images/007.jpg)
+![001.jpg](images/001.jpg)
+![002.jpg](images/002.jpg)
+![003.jpg](images/003.jpg)
+![004.jpg](images/004.jpg)
+![005.jpg](images/005.jpg)
+![006.jpg](images/006.jpg)
+![007.jpg](images/007.jpg)
