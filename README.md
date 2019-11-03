@@ -26,5 +26,13 @@ pause
 * 每张训练图片尺寸为 28 * 28
 * 训练图片前景白色，背景黑色
 * SVM 模型路径 ./data/trainData/svm.xml
+![目录结构](https://github.com/1024210879/idcard-/tree/master/images/dirs.jpg)
 
 # 效果图
+[001.jpg](https://github.com/1024210879/idcard-/tree/master/images/001.jpg)
+[002.jpg](https://github.com/1024210879/idcard-/tree/master/images/002.jpg)
+[003.jpg](https://github.com/1024210879/idcard-/tree/master/images/003.jpg)
+[004.jpg](https://github.com/1024210879/idcard-/tree/master/images/004.jpg)
+[005.jpg](https://github.com/1024210879/idcard-/tree/master/images/005.jpg)
+[006.jpg](https://github.com/1024210879/idcard-/tree/master/images/006.jpg)
+[007.jpg](https://github.com/1024210879/idcard-/tree/master/images/007.jpg)
