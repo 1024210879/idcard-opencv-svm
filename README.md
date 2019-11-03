@@ -28,6 +28,7 @@ pause
 * SVM 模型路径 ./data/trainData/svm.xml
 数据下载: https://pan.baidu.com/s/11chJ9wvcWJWrGXZw_RpYIQ 
 神秘代码: 5dzu 
+<br>
 ![dirs.jpg](images/dirs.jpg)
 
 # 效果图
