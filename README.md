@@ -1,5 +1,5 @@
 # idcard-
-OpenCV实现第二代身份证号码识别，形态学、轮廓检测身份证号码位置，SVM识别数字。已设计好 Card 类供调用，具体调用方法见 main.cpp
+OpenCV实现第二代身份证号码识别，形态学、轮廓检测身份证号码位置，SVM识别数字。已设计好 Card 类供调用，具体调用方法见 main.cpp。数据均来自于百度搜索。
 
 # requirement
 OpenCV 4.0.0
