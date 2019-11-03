@@ -26,9 +26,8 @@ pause
 * 每张训练图片尺寸为 28 * 28
 * 训练图片前景白色，背景黑色
 * SVM 模型路径 ./data/trainData/svm.xml
-数据下载: https://pan.baidu.com/s/11chJ9wvcWJWrGXZw_RpYIQ 
-神秘代码: 5dzu 
-<br>
+* 数据下载: https://pan.baidu.com/s/11chJ9wvcWJWrGXZw_RpYIQ <br>
+神秘代码: 5dzu <br>
 ![dirs.jpg](images/dirs.jpg)
 
 # 效果图
